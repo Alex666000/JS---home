@@ -1,3 +1,4 @@
+/*
 import {multiply, splitIntoWords, sum} from './01';
 //0:
 // Если данные дублируются в тестах выносим их выше
@@ -39,8 +40,8 @@ test('multiply should be correct', () => {
 test('splitting inti words should be correct', () => {
 
     //actions
-    let result1 = splitIntoWords(sent1);
-    let result2 = splitIntoWords(sent2);
+   /!* let result1 = splitIntoWords(sent1);
+    let result2 = splitIntoWords(sent2);*!/
 
     //expect result:
     expect(result1.length).toBe(3)
@@ -61,3 +62,4 @@ test('splitting inti words should be correct', () => {
 })
 
 
+*/
